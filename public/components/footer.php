@@ -1,5 +1,5 @@
     <footer>
     </footer>
-    <script src="../assets/bootstrap-4.6.0/js/bootstrap.js"></script>
+    <script src="../assets/bootstrap-5.0.0/js/bootstrap.js"></script>
   </body>
 </html>
