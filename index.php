@@ -1,5 +1,8 @@
 <?php
 $view = filter_input(INPUT_GET, "view");
+$host = $_SERVER["HTTP_HOST"];
+
+define('BASE_URL', "http://$host");
 
 require_once('./public/components/header.php');
 
