@@ -1,0 +1,14 @@
+.bg-theme-1 {
+  background: #212121;
+}
+
+
+footer a {
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #651BD3;
+}
