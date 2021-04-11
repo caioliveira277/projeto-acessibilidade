@@ -8,6 +8,7 @@ require_once('./public/components/header.php');
 
 switch ($view) {
   case 'home':
+    include('./public/pages/home.php');
     break;
   
   default:

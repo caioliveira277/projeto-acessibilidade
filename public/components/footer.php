@@ -23,5 +23,6 @@
     </footer>
     <!-- Bootstrap 5.0.0 -->
     <script src="<?=BASE_URL?>/public/assets/js/bootstrap.js"></script>
+    <script src="<?=BASE_URL?>/public/assets/js/scripts.js"></script>
   </body>
 </html>
