@@ -13,7 +13,7 @@
       </div>
 
       <div class="col-lg-6 mx-auto text-center">
-        <img class="img-principal" src="http://localhost:3000/projeto-acessibilidade/public/img/imagemPrincipal.svg" alt="imagem de um notebook aberto com um código html na tela">
+        <img class="img-principal" src="<?=BASE_URL?>/public/img/imagemPrincipal.svg" alt="imagem de um notebook aberto com um código html na tela">
       </div>
     </div>
 
@@ -31,7 +31,7 @@
     <!-- imagem do código -->
 
     <div class="col mx-auto text-center mt-5">
-      <img class="img-codigo-home" src="http://localhost:3000/projeto-acessibilidade/public/img/imagemExemploCodigoHTML.svg" alt="painel com um texto html básico como exemplo">
+      <img class="img-codigo-home" src="<?=BASE_URL?>/public/img/imagemExemploCodigoHTML.svg" alt="painel com um texto html básico como exemplo">
     </div>
 
 
@@ -50,7 +50,7 @@
       </div>
 
       <div class="col-md-5 mt-4 mx-auto text-center">
-        <img src="http://localhost:3000/projeto-acessibilidade/public/img/iconeSurpreso.svg" alt="icone de um rosto surpreso">
+        <img src="<?=BASE_URL?>/public/img/iconeSurpreso.svg" alt="icone de um rosto surpreso">
       </div>
     </div>
 
@@ -75,7 +75,7 @@
       </div>
 
       <div class="col-md-5 mt-4 mx-auto text-center">
-        <img src="http://localhost:3000/projeto-acessibilidade/public/img/iconeTriste.svg" alt="icone de um rosto triste">
+        <img src="<?=BASE_URL?>/public/img/iconeTriste.svg" alt="icone de um rosto triste">
       </div>
     </div>
 
@@ -101,7 +101,7 @@
       </div>
 
       <div class="col-md-5 mt-4 mx-auto text-center">
-        <img src="http://localhost:3000/projeto-acessibilidade/public/img/iconeMoeda.svg" alt="icone uma moeda de dinheiro">
+        <img src="<?=BASE_URL?>/public/img/iconeMoeda.svg" alt="icone uma moeda de dinheiro">
       </div>
     </div>
 
