@@ -4,7 +4,7 @@
 *{box-sizing: border-box;}
 body{ background-color:#0E1013 ;color:white;}
 /**INFORMATIVOS **/
-
+a{text-decoration: none;color: #ffffff;font-weight: 700;}
 
 /**CARDS**/
 
@@ -33,24 +33,29 @@ body{ background-color:#0E1013 ;color:white;}
 
 
 /**DESCRIÇÃO DAS DEFICIENCIAS**/
-article{ background: #212121; margin: 20px;}
-
-article p { width:627px;}
+article{ background: #212121; margin: 20px; max-width: 1440px;}
 
 
-.icone{ position: relative; top: -57px; left: 95%; margin: 10px;}
+
+article p { max-width:627px;margin-right: 30px;}
+
+/**Icones
+.icone-visual{position: relative;top: -116px;left: 398px;}
+.icone-motora{position: relative; top: -114px; left: 244px;}
+.icone-cognitivas{position:relative;top: -39px;left: 249px;}
+***/
 
 .saiba-mais-visual {border-left: solid 5px #0085FF;border-bottom:solid 5px #0085FF;padding: 5px;}
 
-.saiba-mais-visual-fonte{color: #0083FF;}
+.saiba-mais-visual-fonte{color: white; text-align: center;}
 
 .saiba-mais-motora { border-left: solid 5px #FF0000; border-bottom:solid 5px #FF0000; padding: 5px;}
 
-.saiba-mais-motora-fonte{ color: #FF0000;}
+.saiba-mais-motora-fonte{ color: white;text-align: center;}
 
 .saiba-mais-cognitiva {border-left: solid 5px #FFF500;border-bottom:solid 5px #FFF500;padding: 5px;}
 
-.saiba-mais-cognitiva-fonte{color: #FFF500;}
+.saiba-mais-cognitiva-fonte{color:white;text-align: center;}
 
 
 
