@@ -1,4 +1,4 @@
-<main>
+<main id="inicio">
 
   <section class="container-xl mt-5">
 
@@ -120,6 +120,12 @@
 
     </div>
 
+
+    <!-- botão para subir a página -->
+
   </section>
+  <div class="m-5 text-end">
+    <a href="#inicio" class="btn btn-lg btn-primary" role="button" data-bs-toggle="button">Voltar o topo</a>
+  </div>
 
 </main>
