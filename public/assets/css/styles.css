@@ -1,113 +1,282 @@
 .bg-theme-1 {
-  background: #212121;
+    background: #212121;
 }
 
-footer a {
-  font-size: 26px;
-  color: #ffffff;
-  font-weight: 600;
-  text-decoration: none;
-}
-footer a:hover {
-  color: #651bd3;
+* {
+    box-sizing: border-box;
 }
 
 body {
-  background-color: #0e1013;
+    background-color: #0E1013;
+    color: white;
 }
-h1, h2, h3, h4, p, a.btn {
-  color: #ffffff;
+
+
+/**INFORMATIVOS **/
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
 }
+
+.titulo-section {
+    display: none;
+    text-align: center;
+}
+
+
+/**CARDS**/
+
+.card {
+    border: transparent;
+}
+
+.icone-card {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: auto;
+}
+
+.card-informativos {
+    background: #212121;
+    width: 570px;
+    height: 300px;
+    margin: 10px;
+    position: relative;
+}
+
+.card-informativos p {
+    width: 440px;
+}
+
+.visual {
+    border-left: solid 5px #0085FF;
+    padding: 5px;
+}
+
+.motora {
+    border-left: solid 5px #FF0000;
+    padding: 5px;
+}
+
+.cognitiva {
+    margin: 0 auto;
+    border-left: solid 5px #FFF500;
+    padding: 5px
+}
+
+.btn-visual {
+    background: linear-gradient(94.03deg, #0083FF 1.29%, #75A1CB 100%);
+}
+
+.btn-motora {
+    background: linear-gradient(94.03deg, #FF0000 1.29%, #CB7575 100%);
+}
+
+.btn-cognitiva {
+    background: linear-gradient(94.03deg, #FFF500 1.29%, #FFF500 100%);
+}
+
+.cards a {
+    padding: 17px;
+    text-align: center;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.cards a:hover {
+    color: #fff;
+}
+
+
+/**FIM DAS CONFIGURAÇÕES DE CARD**/
+
+
+/**DESCRIÇÃO DAS DEFICIENCIAS**/
+
+article {
+    background: #212121;
+    margin: 20px;
+}
+
+article a {
+    color: #0085FF;
+    text-decoration: underline;
+}
+
+article p {
+    line-height: 30px;
+}
+
+.saiba-mais-visual {
+    border-left: solid 5px #0085FF;
+    border-bottom: solid 5px #0085FF;
+    padding: 5px;
+}
+
+.saiba-mais-visual-fonte {
+    color: white;
+}
+
+.saiba-mais-visual-fonte:hover {
+    color: #0083FF;
+}
+
+.saiba-mais-motora {
+    border-left: solid 5px #FF0000;
+    border-bottom: solid 5px #FF0000;
+    padding: 5px;
+}
+
+.saiba-mais-motora-fonte {
+    color: white;
+    text-align: center;
+}
+
+.saiba-mais-motora-fonte:hover {
+    color: #FF0000;
+}
+
+.saiba-mais-cognitiva {
+    border-left: solid 5px #FFF500;
+    border-bottom: solid 5px #FFF500;
+    padding: 5px;
+}
+
+.saiba-mais-cognitiva-fonte {
+    color: white;
+    text-align: center;
+}
+
+.saiba-mais-cognitiva-fonte:hover {
+    color: #FFF500;
+}
+
+footer a {
+    font-size: 26px;
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #651bd3;
+}
+
+body {
+    background-color: #0e1013;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+a.btn {
+    color: #ffffff;
+}
+
 
 /*-------------------- home ---------------------*/
 
+
 /* botao da página home */
+
 .btn-home {
-  font-family: sans-serif;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 32px;
-  line-height: 37px;
-
-  color: #ffffff;
-  background: linear-gradient(94.03deg, #8844ee 1.29%, #4e00c2 100%);
-  border-radius: 5px;
-
-  padding: 25px;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    color: #ffffff;
+    background: linear-gradient(94.03deg, #8844ee 1.29%, #4e00c2 100%);
+    border-radius: 5px;
+    padding: 25px;
 }
 
 .btn-home:hover {
-  border: 2px solid #8844ee;
-  background: transparent;
+    border: 2px solid #8844ee;
+    background: transparent;
 }
+
 
 /* imagem principal do codigo da home */
 
 .img-codigo-home {
-  margin: 30px auto;
+    margin: 30px auto;
 }
+
 
 /* media da pagina home */
 
 @media (max-width: 870px) {
-  .img-codigo-home {
-    max-width: 600px;
-  }
+    .img-codigo-home {
+        max-width: 600px;
+    }
 }
 
 @media (max-width: 650px) {
-  .img-codigo-home {
-    max-width: 300px;
-  }
-
-  .img-principal {
-    max-width: 300px;
-  }
+    .img-codigo-home {
+        max-width: 300px;
+    }
+    .img-principal {
+        max-width: 300px;
+    }
 }
 
 @media (max-width: 400px) {
-  .btn-home {
-    padding: 15px;
-    font-size: 20px;
-  }
+    .btn-home {
+        padding: 15px;
+        font-size: 20px;
+    }
 }
 
 
 /*  -- EQUIPES --  */
 
-
-.botao{
-  background-image: linear-gradient(to left, #651BD3, #8844EE);
+.botao {
+    background-image: linear-gradient(to left, #651BD3, #8844EE);
 }
 
-.equipe_cards{
-  width: 18rem;
-  border-top:7px solid red;
-  border-radius:10px;
+.equipe_cards {
+    width: 18rem;
+    border-top: 7px solid red;
+    border-radius: 10px;
 }
+
 
 /*  -- FIM --  */
 
+
 /*  -- CONTATO --  */
-.cor_texto{
-  color:#8844EE;
-}
-.contato_sobre{
-  height:320px;
+
+.cor_texto {
+    color: #8844EE;
 }
 
-.contato_formulario{
-  height:410px;
+.contato_sobre {
+    height: 320px;
 }
-.borda_sobre{
-  height:250px;
-  border-left:1px solid white;
-  
+
+.contato_formulario {
+    height: 410px;
 }
+
+.borda_sobre {
+    height: 250px;
+    border-left: 1px solid white;
+}
+
 @media screen and (max-width: 450px) {
-  .contato_sobre{
-    font-size: 14px;;
-  }
+    .contato_sobre {
+        font-size: 14px;
+        ;
+    }
 }
+
 
 /*  -- FIM --  */
