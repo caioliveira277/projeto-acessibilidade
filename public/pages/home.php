@@ -120,6 +120,8 @@
 
     </div>
 
-  </section>
 
+    <!-- botão para subir a página -->
+
+  </section>
 </main>
