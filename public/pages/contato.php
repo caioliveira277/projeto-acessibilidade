@@ -114,10 +114,4 @@
       </div>
       <hr class="mb-5">
     </div>
-
-    <div class="m-5 text-end">
-      <a href="#inicio" class="btn btn-lg btn-primary" role="button" data-bs-toggle="button">Voltar o topo</a>
-    </div>
-
-
 </main>
