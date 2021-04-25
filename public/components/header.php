@@ -9,4 +9,4 @@
   <link rel="stylesheet" href="<?=BASE_URL?>/public/assets/css/styles.css">
   <title>Projeto Acessibilidade</title>
 </head>
-<body>
+<body id="body">

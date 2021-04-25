@@ -1,3 +1,6 @@
+    <div class="m-5 text-end">
+      <a href="#body" class="btn btn-lg btn-primary" role="button">Voltar o topo</a>
+    </div>
     <footer class="bg-theme-1 py-4">
       <div class="container">
         <div class="row align-items-center">
@@ -22,7 +25,7 @@
       </div>
     </footer>
     <!-- Bootstrap 5.0.0 -->
-    <script src="<?=BASE_URL?>/public/assets/js/bootstrap.js"></script>
+    <script src="<?=BASE_URL?>/public/assets/js/bootstrap.min.js"></script>
     <script src="<?=BASE_URL?>/public/assets/js/scripts.js"></script>
     </body>
 
