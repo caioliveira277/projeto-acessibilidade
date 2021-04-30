@@ -99,6 +99,15 @@ a {
     color: #fff;
 }
 
+.cards h2,
+.cards h3,
+.cards p,
+article h2,
+article h3,
+article p {
+    color: #fff !important;
+}
+
 
 /**FIM DAS CONFIGURAÇÕES DE CARD**/
 
