@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dicas para Deficientes Visuais</title>
-    <link rel="stylesheet" href="<?=BASE_URL?>/public/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?=BASE_URL?>/public/assets/css/styles.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;400;700&display=swap" rel="stylesheet">
-</head>
-<body>
+<main>
     <section class="container-fluid">
         <section class="row info-page-location d-flex justify-content-center">
             <section class="col-10">
@@ -97,6 +85,4 @@
             </section>
         </main>
     </section>
-    <script src="<?=BASE_URL?>/public/assets/js/bootstrap.min.js"></script>
-</body>
-</html>
+</main>
