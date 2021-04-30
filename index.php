@@ -10,16 +10,24 @@ switch ($view) {
   case 'home':
     include('./public/pages/home.php');
     break;
-  case 'equipe':
-    include('./public/pages/equipe.php');
+  case 'contato':
+    include('./public/pages/contato.php');
     break;
   case 'informativos':
     include('./public/pages/informativos.php');
     break;
-  case 'contato':
-    include('./public/pages/contato.php');
+  case 'equipe':
+    include('./public/pages/equipe.php');
     break;
-  
+  case 'dicas-visuais':
+    include('./public/pages/dicas-visuais.php');
+    break;
+  case 'dicas-motoras':
+    include('./public/pages/dicas-motora.php');
+    break;
+  case 'dicas-cognitivas':
+    include('./public/pages/dicas-cognitiva.php');
+    break;
   default:
     include('./public/pages/home.php');
     break;
