@@ -203,7 +203,8 @@ footer a {
     text-decoration: none;
 }
 
-footer a:hover {
+footer a:hover,
+header a.link-logo:hover {
     color: #651bd3;
 }
 
@@ -244,6 +245,7 @@ body.dark a.btn {
 
 .btn-home:hover {
     border: 2px solid #8844ee;
+    color: #8844ee;
     background: transparent;
 }
 
@@ -491,4 +493,13 @@ body.dark .acessibility-menu .font-switch button {
 
 .breadcrumb a {
     color: #0d6efd;
+}
+
+.dropdown-menu[data-bs-popper] {
+    left: -140px;
+    background: #4E00C2;
+}
+
+a.dropdown-item:hover {
+    background: transparent !important;
 }
