@@ -23,10 +23,10 @@ switch ($view) {
     include('./public/pages/dicas-visuais.php');
     break;
   case 'dicas-motoras':
-    include('./public/pages/dicas-motora.php');
+    include('./public/pages/dicas-motoras.php');
     break;
   case 'dicas-cognitivas':
-    include('./public/pages/dicas-cognitiva.php');
+    include('./public/pages/dicas-cognitivas.php');
     break;
   default:
     include('./public/pages/home.php');
