@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;500;700&display=swap');
 * {
     box-sizing: border-box;
     --color-dark: #212121;
     --color-white: #fff;
+    font-family: 'Roboto Slab', serif;
 }
 
 .bg-theme-1 {
@@ -75,15 +77,18 @@ a {
 }
 
 .btn-visual {
-    background: linear-gradient(94.03deg, #0083FF 1.29%, #75A1CB 100%);
+    background: linear-gradient(94.03deg, #0083FF 1.29%, #3894eb 100%);
+    color: black;
 }
 
 .btn-motora {
-    background: linear-gradient(94.03deg, #FF0000 1.29%, #CB7575 100%);
+    background: linear-gradient(94.03deg, #FF0000 1.29%, #d81d1d 100%);
+    color: black;
 }
 
 .btn-cognitiva {
-    background: linear-gradient(94.03deg, #FFF500 1.29%, #FFF500 100%);
+    background: linear-gradient(94.03deg, #bbb40f 1.29%, #FFF500 100%);
+    color: black;
 }
 
 .cards a {
@@ -227,7 +232,6 @@ body.dark a.btn {
 /* botao da página home */
 
 .btn-home {
-    font-family: sans-serif;
     text-decoration: none;
     font-weight: bold;
     font-size: 32px;
@@ -300,14 +304,6 @@ body.dark a.btn {
     color: #8844EE;
 }
 
-.contato_sobre {
-    height: 320px;
-}
-
-.contato_formulario {
-    height: 410px;
-}
-
 .borda_sobre {
     height: 250px;
     border-left: 1px solid white;
@@ -336,7 +332,6 @@ body.dark a.btn {
     height: 300px;
     border-radius: 10px;
     color: var(--color-dark);
-    font-family: 'Roboto Slab', sans-serif;
 }
 
 .card-tips-acessibility h3 {
@@ -407,7 +402,6 @@ body.dark .acessibility-menu .font-switch button {
 
 .acessibility-menu p {
     margin: 0;
-    font-family: 'Roboto', sans-serif;
 }
 
 .acessibility-menu .dark-switch button {
@@ -466,7 +460,6 @@ body.dark .acessibility-menu .font-switch button {
 }
 
 .nav-container nav div ul li a {
-    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     border-radius: 10px;
     transition: background .3s ease-in, color .1s ease-in-out .2s;
