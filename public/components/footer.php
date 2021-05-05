@@ -21,7 +21,7 @@
         </div>
         <hr class="bg-light border-1 mx-auto w-50 my-3 mt-5">
         <small class="text-center d-block text-muted">
-          © Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+          © Copyright todos os direitos reservados projeto acessibilidade Fatec SR
         </small>
       </div>
     </footer>

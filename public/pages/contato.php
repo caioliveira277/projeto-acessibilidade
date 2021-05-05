@@ -9,7 +9,7 @@
     </div>
     <div class="row">
       <div class="col">
-        <h2 class="change-font-size">Contato</h2>
+        <h1 class="change-font-size">Contato</h1>
       </div>
     </div>
 
