@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="<?=BASE_URL?>/public/assets/css/styles.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="icon" type="image/png" href="<?=BASE_URL?>/public/assets/img/favicon.png">
-    <title>Acessibilidade - <?= ucfirst($view) ?></title>
+    <title>Acessibilidade - <?= ucfirst($view ?? 'Home') ?></title>
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 </head>
 <body id="body">
