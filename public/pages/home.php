@@ -116,7 +116,7 @@
 
       <h2 class="mt-4 pb-2 fs-1 fw-bold text-center border-bottom border-gray-900 change-font-size">E é por isso que estamos aqui !</h2>
 
-      <h3 class="mt-3 pb-3 text-light change-font-size">Queremos fazer da internet um lugar para todos, e mostrar que é fácil e possível fazer isso !</h3>
+      <h3 class="mt-3 pb-3 change-font-size">Queremos fazer da internet um lugar para todos, e mostrar que é fácil e possível fazer isso !</h3>
 
     </div>
 
