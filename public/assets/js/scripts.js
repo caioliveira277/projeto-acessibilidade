@@ -5,12 +5,22 @@ btnDarkContainer.addEventListener('click', () => {
     btnDark.classList.toggle('move-dark');
     btnDark.classList.toggle('btn-dark-switcher');
     document.body.classList.toggle('dark')
+    localStorage.setItem('darkmode', document.body.classList.contains('dark'));
 })
 
-function changeLetter(letter, action ){
+window.addEventListener("load", function() {
+    const darkmode = localStorage.getItem('darkmode');
+    if (darkmode === 'true') {
+        btnDark.classList.add('move-dark');
+        btnDark.classList.remove('btn-dark-switcher');
+        document.body.classList.add('dark')
+    }
+});
+
+function changeLetter(letter, action) {
     const styleLetter = window.getComputedStyle(letter);
     let currentFontSize = Math.floor(styleLetter.getPropertyValue('font-size').replace('px', ''));
-    if(action === 'add'){
+    if (action === 'add') {
         currentFontSize++;
     } else {
         currentFontSize--;
