@@ -19,14 +19,14 @@ switch ($view) {
   case 'equipe':
     include('./public/pages/equipe.php');
     break;
-  case 'dicas-visuais':
-    include('./public/pages/dicas-visuais.php');
+  case 'deficiencia-visuais':
+    include('./public/pages/deficiencia-visuais.php');
     break;
-  case 'dicas-motoras':
-    include('./public/pages/dicas-motoras.php');
+  case 'deficiencia-motoras':
+    include('./public/pages/deficiencia-motoras.php');
     break;
-  case 'dicas-cognitivas':
-    include('./public/pages/dicas-cognitivas.php');
+  case 'deficiencia-cognitivas':
+    include('./public/pages/deficiencia-cognitivas.php');
     break;
   default:
     include('./public/pages/home.php');

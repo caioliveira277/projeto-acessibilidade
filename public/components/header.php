@@ -57,9 +57,9 @@
                                         Dicas
                                     </a>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                        <li><a class="dropdown-item text-white" href="/?view=dicas-visuais">Deficiência Visual</a></li>
-                                        <li><a class="dropdown-item text-white" href="/?view=dicas-motoras">Deficiência Motora</a></li>
-                                        <li><a class="dropdown-item text-white" href="/?view=dicas-cognitivas">Deficiência Cognitiva</a></li>
+                                        <li><a class="dropdown-item text-white" href="/?view=deficiencia-visuais">Deficiência Visual</a></li>
+                                        <li><a class="dropdown-item text-white" href="/?view=deficiencia-motoras">Deficiência Motora</a></li>
+                                        <li><a class="dropdown-item text-white" href="/?view=deficiencia-cognitivas">Deficiência Cognitiva</a></li>
                                     </ul>
                                 </div>
                             </li>
