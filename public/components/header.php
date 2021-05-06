@@ -66,9 +66,9 @@
                                                         Dicas
                                                     </a>
                                                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                                        <li><a class="dropdown-item text-white" href="/?view=deficiencia-visuais">Deficiência Visual</a></li>
-                                                        <li><a class="dropdown-item text-white" href="/?view=deficiencia-motoras">Deficiência Motora</a></li>
-                                                        <li><a class="dropdown-item text-white" href="/?view=deficiencia-cognitivas">Deficiência Cognitiva</a></li>
+                                                        <li><a class="dropdown-item text-white" href="<?=BASE_URL?>/?view=deficiencia-visuais">Deficiência Visual</a></li>
+                                                        <li><a class="dropdown-item text-white" href="<?=BASE_URL?>/?view=deficiencia-motoras">Deficiência Motora</a></li>
+                                                        <li><a class="dropdown-item text-white" href="<?=BASE_URL?>/?view=deficiencia-cognitivas">Deficiência Cognitiva</a></li>
                                                     </ul>
                                                 </div>
                                             </li>
