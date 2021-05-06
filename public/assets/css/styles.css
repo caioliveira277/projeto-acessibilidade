@@ -503,3 +503,12 @@ body.dark .acessibility-menu .font-switch button {
 a.dropdown-item:hover {
     background: transparent !important;
 }
+
+.boas-praticas p,
+.boas-praticas h1{
+    color: #212121;
+}
+
+.boas-praticas a{
+    color: blue;
+}

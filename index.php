@@ -2,7 +2,7 @@
 $view = filter_input(INPUT_GET, "view");
 $host = $_SERVER["HTTP_HOST"];
 
-define('BASE_URL', "http://$host");
+define('BASE_URL', "http://$host/projeto-acessibilidade");
 
 require_once('./public/components/header.php');
 
@@ -27,6 +27,9 @@ switch ($view) {
     break;
   case 'deficiencia-cognitivas':
     include('./public/pages/deficiencia-cognitivas.php');
+    break;
+  case 'boas-praticas':
+    include('./public/pages/boas-pratica.php');
     break;
   default:
     include('./public/pages/home.php');
