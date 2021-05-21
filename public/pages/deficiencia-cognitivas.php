@@ -4,7 +4,7 @@
             <p class="change-font-size">Você está em <a class="sr-only sr-only-focusable" href="?view=home">Home</a> > <a class="sr-only sr-only-focusable" href="?view=deficiencia-cognitivas">Deficiências Cognitivas</a></p>
         </div>
     </div>
-    <h1 class="change-font-size">DICAS ACESSIBILIDADE DEFICIÊNCIA COGNITIVA</h1>
+    <h1 class="change-font-size" id="conteudo-principal">DICAS ACESSIBILIDADE DEFICIÊNCIA COGNITIVA</h1>
     <div class="row">
         <section class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">

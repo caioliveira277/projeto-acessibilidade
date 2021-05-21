@@ -40,7 +40,7 @@
 
     <!---------------------------------- surpreso ----------------->
     <!-- infos -->
-    <div class="row">
+    <div class="row" id="conteudo-principal">
       <div class="col-md-6 mt-5">
         <h3 class="fw-bold change-font-size">
           Mais de 20% da população possui algum tipo de deficiência

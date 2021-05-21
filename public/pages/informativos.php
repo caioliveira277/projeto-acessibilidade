@@ -39,7 +39,7 @@
         </div>
     </section>
     <img src="<?= BASE_URL ?>/public/assets/img/separador.svg" class="img-fluid d-block mx-auto my-5" alt="uma linha para separar os conteudos da pagina">
-    <section class="saiba-mais">
+    <section class="saiba-mais" id="conteudo-principal">
         <!--*SECTION SAIBA MAIS-->
         <h3 class="titulo-section change-font-size">Saiba mais sobre as deficiências</h3>
         <article class="saiba-mais-visual row align-items-center position-relative justify-content-center" id="deficiencia-visual">

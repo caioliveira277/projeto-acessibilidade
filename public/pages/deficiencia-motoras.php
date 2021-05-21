@@ -4,7 +4,7 @@
             <p class="change-font-size">Você está em <a class="sr-only sr-only-focusable" href="?view=home">Home</a> > <a class="sr-only sr-only-focusable" href="?view=deficiencia-motoras">Deficiências Motoras</a></p>
         </div>
     </div>
-    <h1 class="change-font-size">DICAS ACESSIBILIDADE DEFICIÊNCIA MOTORA</h1>
+    <h1 class="change-font-size" id="conteudo-principal">DICAS ACESSIBILIDADE DEFICIÊNCIA MOTORA</h1>
     </header>
     <div class="row">
         <section class="row d-flex justify-content-around align-items-center">
