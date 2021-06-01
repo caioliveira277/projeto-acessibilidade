@@ -22,7 +22,7 @@
             <p class="card-text change-font-size">UI e UX Designer</p>
             <p class="card-text change-font-size">R.A. 2650832013009</p>
             <div class="text-center">
-              <a href="#" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
+              <a href="?view=home" target="_blank" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
             </div>
           </div>
         </div>
@@ -36,7 +36,7 @@
             <p class="card-text change-font-size">Gerente de projeto</p>
             <p class="card-text change-font-size">R.A. 1234567890</p>
             <div class="text-center">
-              <a href="#" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
+              <a href="?view=boas-praticas" target="_blank" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
             <p class="card-text change-font-size change-font-size">Programador front-end</p>
             <p class="card-text change-font-size change-font-size">R.A. 2650832013001</p>
             <div class="text-center">
-              <a href="#" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
+              <a href="?view=informativos" target="_blank" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
             </div>
           </div>
         </div>
@@ -68,7 +68,9 @@
             <p class="card-text change-font-size">Programador front-end</p>
             <p class="card-text change-font-size">R.A. 123456678765</p>
             <div class="text-center">
-              <a href="#" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
+              <a href="?view=deficiencia-cognitivas" target="_blank" class="btn text-center botao change-font-size text-white">PAGINA CRIADA 1</a>
+              <a href="?view=deficiencia-visuais" target="_blank" class="btn text-center botao change-font-size text-white mt-2">PAGINA CRIADA 2</a>
+              <a href="?view=deficiencia-motoras" target="_blank" class="btn text-center botao change-font-size text-white mt-2">PAGINA CRIADA 3</a>
             </div>
           </div>
         </div>
@@ -82,7 +84,8 @@
             <p class="card-text change-font-size">Programador front-end</p>
             <p class="card-text change-font-size">R.A. 2650832013004</p>
             <div class="text-center">
-              <a href="#" class="btn text-center botao change-font-size text-white">PAGINA CRIADA</a>
+              <a href="?view=equipe" target="_blank" class="btn text-center botao change-font-size text-white">PAGINA CRIADA 1</a>
+              <a href="?view=contato" target="_blank" class="btn text-center botao change-font-size text-white mt-2">PAGINA CRIADA 2</a>
             </div>
           </div>
         </div>

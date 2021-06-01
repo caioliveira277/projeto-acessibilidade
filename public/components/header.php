@@ -39,16 +39,16 @@
     <section class="menu p-4 p-lg-0">
       <div class="container">
         <div class="row">
-          <div class="col-4 d-flex align-items-center">
+          <div class="col-12 col-sm-4 d-flex align-items-center">
             <a href="?view=home" class="col-12 col-lg-6 d-flex w-auto link-logo p-3">
               <img src="<?=BASE_URL?>/public/assets/img/logo.svg" alt="Logo projeto acessibilidade, letras escritas acessibilidade.com">
               <span class="visually-hidden">Link para retornar à home, logo do site</span>
             </a>
           </div>
-          <div class="col-8 d-flex align-items-center justify-content-end px-5 nav-container">
+          <div class="col-12 col-sm-8 d-flex align-items-center justify-content-end px-5 nav-container justify-content-center justify-content-sm-end">
             <nav class="navbar navbar-expand-lg navbar-dark">
               <div class="container-fluid">
-                <button class="navbar-toggler ms-auto mb-2 border" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler mx-auto mb-2 border" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse text-end" id="navbarMenu">

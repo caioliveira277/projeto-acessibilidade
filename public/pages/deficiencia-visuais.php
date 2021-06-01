@@ -5,7 +5,7 @@
         </div>
     </div>
     <h1 class="change-font-size" id="conteudo-principal">DICAS ACESSIBILIDADE DEFICIÊNCIA VISUAL</h1>
-    <div class="row">
+    <div class="row justify-content-center">
         <section class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">Deixe seu HTML semântico</h3>
