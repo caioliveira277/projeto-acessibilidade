@@ -77,7 +77,7 @@
 					<h4 class="change-font-size">Número: (11) 99999-9999</h4>
 				</div>
 				<div class="col-6 d-flex align-items-center justify-content-center">
-					<a href="#" class="btn text-center botao text-white change-font-size">Abrir WhatsApp</a>
+					<a href="https://web.whatsapp.com/send?phone=5599111112222" target="_blank" class="btn text-center botao text-white change-font-size">Abrir WhatsApp</a>
 				</div>
 			</div>
 		</section>
@@ -129,4 +129,5 @@
 			</div>
 			<hr class="mb-5">
 		</section>
+	</div>
 </main>

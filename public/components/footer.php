@@ -18,10 +18,10 @@
 
             <li class="col-auto mb-3 mb-lg-0">
               <div class="dropdown dropup">
-                <a class="btn btn-secondary dropdown-toggle bg-transparent" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="btn btn-secondary dropdown-toggle bg-transparent" href="#" role="button" id="dropdownMenuLinkFooter" data-bs-toggle="dropdown" aria-expanded="false">
                   Dicas
                 </a>
-                <ul class="dropdown-menu px-2" aria-labelledby="dropdownMenuLink">
+                <ul class="dropdown-menu px-2" aria-labelledby="dropdownMenuLinkFooter">
                   <li><a class="dropdown-item text-white" href="<?=BASE_URL?>/?view=deficiencia-visuais">Deficiência Visual</a></li>
                   <li><a class="dropdown-item text-white" href="<?=BASE_URL?>/?view=deficiencia-motoras">Deficiência Motora</a></li>
                   <li><a class="dropdown-item text-white" href="<?=BASE_URL?>/?view=deficiencia-cognitivas">Deficiência Cognitiva</a></li>
@@ -37,7 +37,6 @@
       </small>
     </div>
   </footer>
-  <!-- Bootstrap 5.0.0 -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
   <script src="<?=BASE_URL?>/public/assets/js/scripts.js"></script>
   </body>

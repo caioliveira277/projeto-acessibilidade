@@ -11,21 +11,18 @@
 	<meta name="description"
 		content="Site focado na acessibilidade do usuário falando sobre algumas deficiências e instruindo a contruir sites acessíveis" />
 
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
-		integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
 	<link rel="stylesheet" href="<?=BASE_URL?>/public/assets/css/styles.css">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link rel="icon" type="image/png" href="<?=BASE_URL?>/public/assets/img/favicon.png">
-	<title>Acessibilidade -
-		<?= ucfirst($view ?? 'Home') ?>
-	</title>
+	<title>Acessibilidade - <?= ucfirst($view ?? 'Home') ?></title>
 	<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 </head>
 
 <body id="body">
 	<header>
-		<section class="acessibility-menu container">
+		<div class="acessibility-menu container">
 			<div class="row">
 				<div class="col-12 col-md-4 d-flex align-items-center justify-content-center px-5 py-3 dark-switch">
 					<p>Modo escuro</p>
@@ -44,11 +41,11 @@
 					<button class="acrescent-font">A+</button>
 				</div>
 			</div>
-		</section>
-		<section class="menu p-4 p-lg-0">
+		</div>
+		<div class="menu p-4 p-lg-0">
 			<div class="container">
 				<div class="row">
-					<div class="col-12 col-sm-4 d-flex align-items-center">
+					<div class="col-12 col-sm-4 d-flex align-items-center justify-content-center">
 						<a href="?view=home" class="col-12 col-lg-6 d-flex w-auto link-logo p-3">
 							<img src="<?=BASE_URL?>/public/assets/img/logo.svg"
 								alt="Logo projeto acessibilidade, letras escritas acessibilidade.com">
@@ -56,10 +53,10 @@
 						</a>
 					</div>
 					<div
-						class="col-12 col-sm-8 d-flex align-items-center justify-content-end px-5 nav-container justify-content-center justify-content-sm-end">
+						class="col-12 col-sm-8 d-flex align-items-center justify-content-end nav-container justify-content-center justify-content-sm-end">
 						<nav class="navbar navbar-expand-lg navbar-dark">
 							<div class="container-fluid">
-								<button class="navbar-toggler mx-auto mb-2 border" type="button"
+								<button class="navbar-toggler ms-sm-auto me-sm-0 ms-auto me-auto  mb-2 border" type="button"
 									data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu"
 									aria-expanded="false" aria-label="Toggle navigation">
 									<span class="navbar-toggler-icon"></span>
@@ -79,15 +76,13 @@
 											<a class="nav-link text-white" href="?view=contato">Contato</a>
 										</li>
 										<li class="nav-item">
-
-
 											<div class="dropdown">
 												<a class="btn btn-secondary dropdown-toggle bg-transparent" href="#"
-													role="button" id="dropdownMenuLink" data-bs-toggle="dropdown"
+													role="button" id="dropdownMenuLinkHeader" data-bs-toggle="dropdown"
 													aria-expanded="false">
 													Dicas
 												</a>
-												<ul class="dropdown-menu pe-4" aria-labelledby="dropdownMenuLink">
+												<ul class="dropdown-menu pe-4" aria-labelledby="dropdownMenuLinkHeader">
 													<li><a class="dropdown-item text-white"
 															href="<?=BASE_URL?>/?view=deficiencia-visuais">Deficiência
 															Visual</a></li>
@@ -107,5 +102,5 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</div>
 	</header>

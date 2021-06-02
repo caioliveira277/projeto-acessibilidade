@@ -131,7 +131,7 @@
             <a href="" class="w-auto ms-auto mt-4 change-font-size">Fonte: Facilitando a Acessibilidade</a>
         </article>
 
-        <article class="saiba-mais-cognitiva row align-items-center position-relative justify-content-center" id="deficiencia-motora">
+        <article class="saiba-mais-cognitiva row align-items-center position-relative justify-content-center" id="deficiencia-cognitiva">
             <div class="position-absolute icone-card">
                 <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaCognitiva.svg" alt="icone de um homem com a mão na cabeça  para simbolizar as deficiências cognitivas">
             </div>

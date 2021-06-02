@@ -6,7 +6,7 @@
 			</div>
 		</div>
 		<h1 class="change-font-size" id="conteudo-principal">Boas práticas</h1>
-		<section class="row" id="conteudo-principal">
+		<section class="row">
 			<h2 class="my-3 change-font-size">
 				Estrutura semântica
 			</h2>
@@ -19,7 +19,7 @@
 					exemplo acima.</p>
 			</div>
 		</section>
-		<section class="row" id="conteudo-principal">
+		<section class="row">
 			<h2 class="my-3 change-font-size">
 				Adicionando uma imagem
 			</h2>
@@ -32,7 +32,7 @@
 					utilizado quando a imagem não carrega por algum motivo.</p>
 			</div>
 		</section>
-		<section class="row" id="conteudo-principal">
+		<section class="row">
 			<h2 class="my-3 change-font-size">
 				Não utilize varias quebras de linhas no HTML
 			</h2>
@@ -46,7 +46,7 @@
 					conteúdo em outras linhas.</p>
 			</div>
 		</section>
-		<section class="row" id="conteudo-principal">
+		<section class="row">
 			<h2 class="my-3 change-font-size">
 				Utilizar a tag correta
 			</h2>
@@ -59,7 +59,7 @@
 					porém podemos nos deparar com o uso de uma div para criar o mesmo, o que está incorreto.</p>
 			</div>
 		</section>
-		<section class="row" id="conteudo-principal">
+		<section class="row">
 			<h2 class="my-3 change-font-size">
 				Criar um formulário
 			</h2>
@@ -72,7 +72,7 @@
 					aquele campo que o usuário está preenchendo.</p>
 			</div>
 		</section>
-		<section class="row" id="conteudo-principal">
+		<section class="row">
 			<h2 class="my-3 change-font-size">
 				Adicionar uma explicação à imagem
 			</h2>
@@ -84,4 +84,5 @@
 					mouse sobre a foto a tag P irá aparecer explicando a imagem.</p>
 			</div>
 		</section>
+	</div>
 </main>
