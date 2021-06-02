@@ -6,7 +6,7 @@
     </div>
     <h1 class="change-font-size" id="conteudo-principal">DICAS ACESSIBILIDADE DEFICIÊNCIA VISUAL</h1>
     <div class="row justify-content-center">
-        <section class="row d-flex justify-content-around align-items-center">
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">Deixe seu HTML semântico</h3>
                 <p class="change-font-size">
@@ -19,8 +19,8 @@
                     Seu site tem que ter fontes de tamanhos generosos que facilitem a leitura de textos.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Não utilize textos justificados
@@ -38,8 +38,8 @@
                     de cima para baixo. Então pense se as informações vão se encaixar nesse contexto.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Utilize serifa
@@ -58,8 +58,8 @@
                     mas será que uma pessoa que tem problemas visuais consegue entender esses textos?
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Cores
@@ -77,6 +77,6 @@
                     Ele é seu cliente, quanto mais à vontade ele se sentir em seu site maior a chance de ele comprar seu produto
                 </p>
             </section>
-        </section>
+        </div>
     </div>
 </main>

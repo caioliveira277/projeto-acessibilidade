@@ -6,7 +6,7 @@
     </div>
     <h1 class="change-font-size" id="conteudo-principal">DICAS ACESSIBILIDADE DEFICIÊNCIA COGNITIVA</h1>
     <div class="row justify-content-center">
-        <section class="row d-flex justify-content-around align-items-center">
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">Use poucas cores</h3>
                 <p class="change-font-size">
@@ -19,8 +19,8 @@
                     Guie seu usuário dentro de seu site para as partes que realmente são importantes.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Mostre onde estamos
@@ -37,8 +37,8 @@
                     Ao invés de criar um formulário gigante separe-o em várias páginas.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Vá direto ao ponto
@@ -55,8 +55,8 @@
                     Use cores de botões diferentes para cada função.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Lembre o usuário
@@ -73,6 +73,6 @@
                     Sempre coloque mensagens de ajuda caso o usuário fique confuso.
                 </p>
             </section>
-        </section>
+        </div>
     </div>
 </main>

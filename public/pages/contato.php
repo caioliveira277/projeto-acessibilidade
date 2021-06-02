@@ -37,31 +37,29 @@
 			</div>
 		</section>
 
-		<section class="row p-3">
-			<div class="col-12 bg-dark text-white d-flex p-3">
-				<form class="col-9">
-					<div class="form-group">
-						<label for="nome" class="change-font-size mb-2">Nome</label>
-						<input type="text" class="form-control" id="nome" placeholder="Digite seu Nome">
-					</div>
-					<div class="form-group mt-2">
-						<label for="telefone" class="change-font-size mb-2">Telefone</label>
-						<input type="tel" class="form-control" id="telefone" placeholder="Digite seu telefone para contato">
-					</div>
-					<div class="form-group mt-2">
-						<label for="email" class="change-font-size mb-2">E-mail</label>
-						<input type="email" class="form-control" id="email" placeholder="Escreva seu E-mail">
-					</div>
-					<div class="form-group mt-2">
-						<label for="duvida" class="change-font-size mb-2">Dúvida</label>
-						<textarea class="form-control" id="duvida" placeholder="Escreva seu sua dúvida" rows="3"></textarea>
-					</div>
-					<div class="ps-2 pt-4">
-						<a href="#" class="btn text-center botao text-white change-font-size">ENVIAR</a>
-					</div>
-				</form>
-			</div>
-		</section>
+		<div class="col-12 bg-dark text-white d-flex p-3">
+			<form class="col-9">
+				<div class="form-group">
+					<label for="nome" class="change-font-size mb-2">Nome</label>
+					<input type="text" class="form-control" id="nome" placeholder="Digite seu Nome">
+				</div>
+				<div class="form-group mt-2">
+					<label for="telefone" class="change-font-size mb-2">Telefone</label>
+					<input type="tel" class="form-control" id="telefone" placeholder="Digite seu telefone para contato">
+				</div>
+				<div class="form-group mt-2">
+					<label for="email" class="change-font-size mb-2">E-mail</label>
+					<input type="email" class="form-control" id="email" placeholder="Escreva seu E-mail">
+				</div>
+				<div class="form-group mt-2">
+					<label for="duvida" class="change-font-size mb-2">Dúvida</label>
+					<textarea class="form-control" id="duvida" placeholder="Escreva seu sua dúvida" rows="3"></textarea>
+				</div>
+				<div class="ps-2 pt-4">
+					<a href="#" class="btn text-center botao text-white change-font-size">ENVIAR</a>
+				</div>
+			</form>
+		</div>
 
 
 		<section class="row mt-5">

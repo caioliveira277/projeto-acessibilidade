@@ -6,7 +6,7 @@
     </div>
     <h1 class="change-font-size" id="conteudo-principal">DICAS ACESSIBILIDADE DEFICIÊNCIA MOTORA</h1>
     <div class="row justify-content-center">
-        <section class="row d-flex justify-content-around align-items-center">
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">Deixe seu botões grandes</h3>
                 <p class="change-font-size">
@@ -19,8 +19,8 @@
                     Por conta dessas dificuldades muitos acabam utilizando o teclado para navegar na internet.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Tenha dicas de atalhos
@@ -38,8 +38,8 @@
                     de cima para baixo. Então pense se as informações vão se encaixar nesse contexto.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Menus
@@ -58,8 +58,8 @@
                     Principalmente em vários links.
                 </p>
             </section>
-        </section>
-        <section class="row d-flex justify-content-around align-items-center">
+        </div>
+        <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
                 <h3 class="change-font-size">
                     Cancelar
@@ -68,6 +68,6 @@
                     Dê a opção do usuário cancelar alguma ação indesejada causada por acidente.
                 </p>
             </section>
-        </section>
+        </div>
     </div>
 </main>
