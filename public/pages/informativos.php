@@ -85,7 +85,7 @@
             <div class="col-12 col-lg-4 text-center">
                 <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficienteVisual.jpg" alt="Deficiente visual andando na rua com o seu cão guia" class="img-fluid">
             </div>
-            <a href="" class="w-auto ms-auto mt-4 change-font-size">Fonte: Educação Diferente</a>
+            <a href="http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=686" target="_blank" class="w-auto ms-auto mt-4 change-font-size">Fonte: Dia a dia Educação</a>
         </article>
 
         <article class="saiba-mais-motora row align-items-center position-relative justify-content-center" id="deficiencia-motora">
@@ -128,7 +128,7 @@
             <div class="col-12 col-lg-4 text-center">
                 <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficienteMotora.jpg" alt="Foto de um deficiente motor na rua" class="img-fluid">
             </div>
-            <a href="" class="w-auto ms-auto mt-4 change-font-size">Fonte: Facilitando a Acessibilidade</a>
+            <a href="https://facilitandoacessibilidade.wordpress.com/2015/04/13/deficiencia-motora/#:~:text=Defici%C3%AAncia%20motora%20%C3%A9%20uma%20disfun%C3%A7%C3%A3o,que%20diz%20respeito%20%C3%A0%20mobilidade" target="_blank" class="w-auto ms-auto mt-4 change-font-size">Fonte: Facilitando a Acessibilidade</a>
         </article>
 
         <article class="saiba-mais-cognitiva row align-items-center position-relative justify-content-center" id="deficiencia-cognitiva">
@@ -170,7 +170,7 @@
             <div class="col-12 col-lg-4 text-center">
                 <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficenteCognitiva.jpg" alt="Imagem de um senhor de idade" class="img-fluid">
             </div>
-            <a href="" class="w-auto ms-auto mt-4 change-font-size">Fonte: educação diferente</a>
+            <a href="https://edif.blogs.sapo.pt/deficiencia-cognitiva-227408#:~:text=Condi%C3%A7%C3%B5es%20cognitivas%20menos%20severas%20incluem,dificuldades%20de%20aprendizagem%20em%20geral" target="_blank" class="w-auto ms-auto mt-4 change-font-size">Fonte: Educação Diferente</a>
         </article>
     </section>
 </main>
