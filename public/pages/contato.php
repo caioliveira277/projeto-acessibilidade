@@ -53,7 +53,7 @@
 				</div>
 				<div class="form-group mt-2">
 					<label for="duvida" class="change-font-size mb-2">Dúvida</label>
-					<textarea class="form-control" id="duvida" placeholder="Escreva seu sua dúvida" rows="3"></textarea>
+					<textarea class="form-control" id="duvida" placeholder="Escreva sua dúvida" rows="3"></textarea>
 				</div>
 				<div class="ps-2 pt-4">
 					<a href="#" class="btn text-center botao text-white change-font-size">ENVIAR</a>
