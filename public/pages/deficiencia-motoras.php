@@ -8,13 +8,13 @@
     <div class="row justify-content-center">
         <div class="row d-flex justify-content-around align-items-center">
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-left">
-                <h3 class="change-font-size">Deixe seu botões grandes</h3>
+                <h3 class="change-font-size">Deixe seus botões grandes</h3>
                 <p class="change-font-size">
                     Essas pessoas tem problemas motores que complicam o uso do mouse.
                 </p>
             </section>
             <section class="col-lg-4 col-md-10 col-sm-8 card-tips-acessibility card-tips-right">
-                <h3 class="change-font-size">De a opcão do uso do teclado</h3>
+                <h3 class="change-font-size">Dê a opcão de uso do teclado</h3>
                 <p class="change-font-size">
                     Por conta dessas dificuldades muitos acabam utilizando o teclado para navegar na internet.
                 </p>
