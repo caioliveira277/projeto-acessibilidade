@@ -48,14 +48,11 @@ a {
 
 .card-informativos {
   background: var(--color-dark);
-  width: 570px;
-  height: 300px;
+  max-width: 570px;
+  min-height: 300px;
   margin: 10px;
   position: relative;
-}
-
-.card-informativos p {
-  width: 440px;
+  padding-bottom: 3rem!important;
 }
 
 .visual {
@@ -117,9 +114,13 @@ article p {
 
 article {
   background: var(--color-dark);
-  margin: 20px;
+  margin: 20px 0;
 }
-
+@media screen and (max-width: 576px) {
+  div.icone-card {
+    display: none;
+  }
+}
 article a {
   color: #6db7fb;
   text-decoration: underline;

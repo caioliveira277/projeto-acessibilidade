@@ -5,9 +5,9 @@
       </div>
     </div>
     <h1 class="change-font-size">Informativos</h1>
-    <section class="cards m-3 row justify-content-center">
+    <section class="cards mx-0 my-3 row justify-content-center">
         <div class="card-informativos visual col-12 col-lg-6">
-            <h2 class="change-font-size">Deficiencias visuais</h2>
+            <h2 class="change-font-size mb-4 pe-3">Deficiencias visuais</h2>
             <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaVisual.svg" alt="icone de olho para simbolizar a deficiência visual" class="icone-card img-fluid">
             <p class="p-2 change-font-size">
                 Deficiência visual caracteriza-se pela limitação ou perda da funções básicas do olho e do
@@ -18,7 +18,7 @@
         </div>
 
         <div class="card-informativos motora col-12 col-lg-6">
-            <h2 class="change-font-size">Deficiencias motoras</h2>
+            <h2 class="change-font-size mb-4 pe-3">Deficiencias motoras</h2>
             <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaMotora.svg" alt="icone de um homem de cadeiras de rodas  para simbolizar a deficiência motora" class="icone-card">
             <p class="p-2 change-font-size">
                 É uma disfunção física ou motora, a qual poderá ser de carácter congénito ou adquirido. Desta
@@ -29,7 +29,7 @@
         </div>
 
         <div class="card-informativos cognitiva col-12 mt-0 mt-lg-3">
-            <h2 class="change-font-size">Deficiencias cognitivas</h2>
+            <h2 class="change-font-size mb-4 pe-3">Deficiencias cognitivas</h2>
             <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaCognitiva.svg" alt="icone de um homem com a mão na cabeça  para simbolizar as deficiências cognitivas" class="icone-card img-fluid">
             <p class="p-2 change-font-size">
                 Incluem autismo, Síndrome de Down, traumatismos crânio-encefálicos (TCE), até a demência, déficit de
@@ -42,12 +42,12 @@
     <section class="saiba-mais" id="conteudo-principal">
         <!--*SECTION SAIBA MAIS-->
         <h3 class="titulo-section change-font-size">Saiba mais sobre as deficiências</h3>
-        <article class="saiba-mais-visual row align-items-center position-relative justify-content-center" id="deficiencia-visual">
+        <article class="saiba-mais-visual align-items-center position-relative justify-content-center" id="deficiencia-visual">
             <div class="position-absolute icone-card">
                 <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaVisual.svg" alt="icone de olho para simbolizar a deficiência visual">
             </div>
             <div class="col-12 col-lg-8">
-                <h2 class="change-font-size">Deficiências visuais</h2>
+                <h2 class="change-font-size mb-4 pe-3">Deficiências visuais</h2>
                 <h3 class="change-font-size">Cego:</h3>
                 <p class="p-2 change-font-size">A cegueira pressupõe a falta de percepção visual devido a fatores fisiológicos ou neurológicos. A
                     cegueira total ou simplesmente amaurose, caracteriza-se pela completa
@@ -85,15 +85,17 @@
             <div class="col-12 col-lg-4 text-center">
                 <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficienteVisual.jpg" alt="Deficiente visual andando na rua com o seu cão guia" class="img-fluid">
             </div>
-            <a href="http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=686" target="_blank" class="w-auto ms-auto mt-4 change-font-size">Fonte: Dia a dia Educação</a>
+            <div class="d-flex">
+                <a href="http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=686" target="_blank" class="ms-auto mt-4 d-inline-block change-font-size">Fonte: Dia a dia Educação</a>
+            </div>
         </article>
 
-        <article class="saiba-mais-motora row align-items-center position-relative justify-content-center" id="deficiencia-motora">
+        <article class="saiba-mais-motora align-items-center position-relative justify-content-center" id="deficiencia-motora">
             <div class="position-absolute icone-card">
                 <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaMotora.svg" alt="icone de um homem de cadeiras de rodas  para simbolizar a deficiência motora">
             </div>
             <div class="col-12 col-lg-8">
-                <h2 class="change-font-size">Deficiências Motoras</h2>
+                <h2 class="change-font-size mb-4 pe-3">Deficiências Motoras</h2>
                 <h3 class="change-font-size">Quais as causas da deficiência motora?</h3>
                 <p class="p-2 change-font-size">São vários os motivos que podemos encontrar na base da deficiência motora, destacando-se as
                     seguintes:
@@ -128,15 +130,17 @@
             <div class="col-12 col-lg-4 text-center">
                 <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficienteMotora.jpg" alt="Foto de um deficiente motor na rua" class="img-fluid">
             </div>
-            <a href="https://facilitandoacessibilidade.wordpress.com/2015/04/13/deficiencia-motora/#:~:text=Defici%C3%AAncia%20motora%20%C3%A9%20uma%20disfun%C3%A7%C3%A3o,que%20diz%20respeito%20%C3%A0%20mobilidade" target="_blank" class="w-auto ms-auto mt-4 change-font-size">Fonte: Facilitando a Acessibilidade</a>
+            <div class="d-flex">
+                <a href="https://facilitandoacessibilidade.wordpress.com/2015/04/13/deficiencia-motora/#:~:text=Defici%C3%AAncia%20motora%20%C3%A9%20uma%20disfun%C3%A7%C3%A3o,que%20diz%20respeito%20%C3%A0%20mobilidade" target="_blank" class="ms-auto mt-4 d-inline-block change-font-size">Fonte: Facilitando a Acessibilidade</a>
+            </div>
         </article>
 
-        <article class="saiba-mais-cognitiva row align-items-center position-relative justify-content-center" id="deficiencia-cognitiva">
+        <article class="saiba-mais-cognitiva align-items-center position-relative justify-content-center" id="deficiencia-cognitiva">
             <div class="position-absolute icone-card">
                 <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaCognitiva.svg" alt="icone de um homem com a mão na cabeça  para simbolizar as deficiências cognitivas">
             </div>
             <div class="col-12 col-lg-8">
-                <h2 class="change-font-size">Deficiências cognitivas</h2>
+                <h2 class="change-font-size mb-4 pe-3">Deficiências cognitivas</h2>
                 <h3 class="change-font-size">Deficiência cognitiva Clínica vs Funcional</h3>
                 <p class="p-2 change-font-size">
                     Existem pelo menos duas maneiras de classificar deficiências cognitivas: pela incapacidade
@@ -170,7 +174,9 @@
             <div class="col-12 col-lg-4 text-center">
                 <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficenteCognitiva.jpg" alt="Imagem de um senhor de idade" class="img-fluid">
             </div>
-            <a href="https://edif.blogs.sapo.pt/deficiencia-cognitiva-227408#:~:text=Condi%C3%A7%C3%B5es%20cognitivas%20menos%20severas%20incluem,dificuldades%20de%20aprendizagem%20em%20geral" target="_blank" class="w-auto ms-auto mt-4 change-font-size">Fonte: Educação Diferente</a>
+            <div class="d-flex">
+                <a href="https://edif.blogs.sapo.pt/deficiencia-cognitiva-227408#:~:text=Condi%C3%A7%C3%B5es%20cognitivas%20menos%20severas%20incluem,dificuldades%20de%20aprendizagem%20em%20geral" target="_blank" class="ms-auto mt-4 d-inline-block change-font-size">Fonte: Educação Diferente</a>
+            </div>
         </article>
     </section>
 </main>
