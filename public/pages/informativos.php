@@ -7,7 +7,7 @@
     <h1 class="change-font-size">Informativos</h1>
     <section class="cards mx-0 my-3 row justify-content-center">
         <div class="card-informativos visual col-12 col-lg-6">
-            <h2 class="change-font-size mb-4 pe-3">Deficiencias visuais</h2>
+            <h2 class="change-font-size mb-4 pe-4">Deficiencias visuais</h2>
             <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaVisual.svg" alt="icone de olho para simbolizar a deficiência visual" class="icone-card img-fluid">
             <p class="p-2 change-font-size">
                 Deficiência visual caracteriza-se pela limitação ou perda da funções básicas do olho e do
@@ -18,7 +18,7 @@
         </div>
 
         <div class="card-informativos motora col-12 col-lg-6">
-            <h2 class="change-font-size mb-4 pe-3">Deficiencias motoras</h2>
+            <h2 class="change-font-size mb-4 pe-4">Deficiencias motoras</h2>
             <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaMotora.svg" alt="icone de um homem de cadeiras de rodas  para simbolizar a deficiência motora" class="icone-card">
             <p class="p-2 change-font-size">
                 É uma disfunção física ou motora, a qual poderá ser de carácter congénito ou adquirido. Desta
@@ -28,8 +28,8 @@
             <a href="#deficiencia-motora" class="btn-motora change-font-size">SAIBA MAIS</a>
         </div>
 
-        <div class="card-informativos cognitiva col-12 mt-0 mt-lg-3">
-            <h2 class="change-font-size mb-4 pe-3">Deficiencias cognitivas</h2>
+        <div class="card-informativos cognitiva col-12 col-lg-6 mt-0 mt-lg-3">
+            <h2 class="change-font-size mb-4 pe-4">Deficiencias cognitivas</h2>
             <img src="<?= BASE_URL ?>/public/assets/img/iconeDeficienciaCognitiva.svg" alt="icone de um homem com a mão na cabeça  para simbolizar as deficiências cognitivas" class="icone-card img-fluid">
             <p class="p-2 change-font-size">
                 Incluem autismo, Síndrome de Down, traumatismos crânio-encefálicos (TCE), até a demência, déficit de
