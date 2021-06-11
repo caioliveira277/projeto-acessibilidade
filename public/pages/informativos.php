@@ -128,7 +128,7 @@
                 </ul>
             </div>
             <div class="col-12 col-lg-4 text-center">
-                <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficienteMotora.jpg" alt="Foto de um deficiente motor na rua" class="img-fluid">
+                <img src="<?= BASE_URL ?>/public/assets/img/imagemDeficienteMotora.jpg" alt="Foto de um cadeirante em uma rua contra luz do sol" class="img-fluid">
             </div>
             <div class="d-flex">
                 <a href="https://facilitandoacessibilidade.wordpress.com/2015/04/13/deficiencia-motora/#:~:text=Defici%C3%AAncia%20motora%20%C3%A9%20uma%20disfun%C3%A7%C3%A3o,que%20diz%20respeito%20%C3%A0%20mobilidade" target="_blank" class="ms-auto mt-4 d-inline-block change-font-size">Fonte: Facilitando a Acessibilidade</a>
