@@ -62,7 +62,7 @@
 									<span class="navbar-toggler-icon"></span>
 								</button>
 								<div class="collapse navbar-collapse text-end" id="navbarMenu">
-									<ul class="navbar-nav">
+									<ul class="navbar-nav text-center text-sm-end">
 										<li class="nav-item">
 											<a class="nav-link text-white" href="?view=equipe">Equipes</a>
 										</li>
