@@ -244,24 +244,7 @@ body.dark a.btn {
   background: transparent;
 }
 
-/* imagem principal do codigo da home */
-
-.img-codigo-home {
-  margin: 30px auto;
-}
-
-/* media da pagina home */
-
-@media (max-width: 870px) {
-  .img-codigo-home {
-    max-width: 600px;
-  }
-}
-
 @media (max-width: 650px) {
-  .img-codigo-home {
-    max-width: 300px;
-  }
   .img-principal {
     max-width: 300px;
   }

@@ -15,7 +15,7 @@
 		</div>
 		<hr>
 		<div class="col mx-auto text-center mt-5">
-			<img class="img-codigo-home" src="<?=BASE_URL?>/public/assets/img/imagemExemploCodigoHTML.svg"
+			<img class="img-fluid" src="<?=BASE_URL?>/public/assets/img/imagemExemploCodigoHTML.png"
 				alt="painel com um texto html básico como exemplo">
 		</div>
 		<hr>
