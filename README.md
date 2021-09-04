@@ -12,7 +12,7 @@
 <br>
 
 ## Ideia: 💡
-<i>acessibidade.com</i> - É um site que de forma simples e acessível, fornece informações sobre deficiências e também instruir a construção de sistes acessíveis com dicas e informações relevantes
+<i>acessibidade.com</i> - É um site que de forma simples e acessível, fornece informações sobre deficiências e também instrui à construção de sistes acessíveis com dicas e informações relevantes.
 
 ---
 ## Links: 🌐
