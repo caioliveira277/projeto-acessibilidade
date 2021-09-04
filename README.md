@@ -13,3 +13,12 @@
 
 ## Ideia: 💡
 <i>acessibidade.com</i> - É um site que de forma simples e acessível, fornece informações sobre deficiências e também instruir a construção de sistes acessíveis com dicas e informações relevantes
+
+---
+## Links: 🌐
+***Bootstrap:***<br>
+[<ins>Bootstrap 5 docs</ins>](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+---
+## Licença
+Este projeto está licenciado sob a licença [MIT] - consulte o arquivo LICENSE.md para obter detalhes
